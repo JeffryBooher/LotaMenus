@@ -1,10 +1,10 @@
 {
-    "name": "<yourname>.<extensionname>",
-    "title": "<your extension title>",
-    "description": "<fill in description>",
-    "homepage": "https://github.com/<repo>",
+    "name": "JeffryBooher.LotaMenus",
+    "title": "Brackets Extension for Lota Menus",
+    "description": "Installs a lot of menus in bracketrs",
+    "homepage": "https://github.com/JeffryBooher/LotaMenus",
     "version": "0.0.1",
-    "author": "<name etc, url, etc...>",
+    "author": "J@JeffryBooher,
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
