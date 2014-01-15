@@ -1,6 +1,6 @@
 {
-    "name": "LotaMenus",
-    "title": "Brackets Extension for Lota Menus",
+    "name": "brackets-LottaMenus",
+    "title": "LotaMenus",
     "description": "Installs a lot of menus in bracketrs",
     "homepage": "https://github.com/JeffryBooher/LotaMenus",
     "version": "0.0.1",
