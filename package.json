@@ -4,7 +4,7 @@
     "description": "Installs a lot of menus in bracketrs",
     "homepage": "https://github.com/JeffryBooher/LotaMenus",
     "version": "0.0.1",
-    "author": "J@JeffryBooher,
+    "author": "@JeffryBooher",
     "license": "MIT",
     "engines": {
         "brackets": ">=0.24.0"
